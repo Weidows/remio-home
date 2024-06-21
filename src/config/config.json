@@ -102,13 +102,19 @@
       "desc": "Github 组织"
     },
     {
-      "icon": "https://cdn.jsdelivr.net/gh/Weidows-projects/.github/profile/4BCJWOhHAzPkGvT.png",
+      "icon": "/icons/6e7c5e92.jpg",
       "title": "Weidow's Monitor-Page",
       "url": "https://stats.uptimerobot.com/22R3Pfkjzv",
       "desc": "网站状态监控"
     },
     {
-      "icon": "https://cdn.jsdelivr.net/gh/Weidows-projects/.github/profile/4BCJWOhHAzPkGvT.png",
+      "icon": "/icons/6e7c5e92.jpg",
+      "title": "Bangumi",
+      "url": "https://bangumi.tv/anime/list/823155/collect?orderby=rate",
+      "desc": "追番管理 & 评分"
+    },
+    {
+      "icon": "/icons/6e7c5e92.jpg",
       "title": "Edge Workspace",
       "url": "https://aka.ms/edge/workspaceslaunch?code=dHlwZT0xJmlkPWFIUjBjSE02THk5b2IyMWxMbTFwWTNKdmMyOW1kSEJsY25OdmJtRnNZMjl1ZEdWdWRDNWpiMjB2T25VNkwyY3ZZMjl1ZEdWdWRITjBiM0poWjJVdk5rTjZibWxvVGpOMk1IVjVNWHBMTlVaeVVrTmlkelU0TWpaaU1XVTRZVGMyWVRVeE5UaDNiM0pyYzNCaFkyVnpMMGxSVEZKMFpXMVliV3BCT1ZGaVZ6Um1XVVJVYTBaVFkwRlhOV2hEUkdKTFNFeHFWVFE0TkVrd2VqY3dYM1ZCJnN0b3JlPTUmc291cmNlPVdvcmtzcGFjZXMmcmVkZWVtQ29kZT1kdW1teV9zZWVkJmFwcElkR3VpZD1iNmQ4MzNjZi1iNTRlLTRjYWItODE0My0xMzE4ZTBiYzUwZTE%3D&source=Workspaces",
       "desc": "Edge 浏览器共享浏览/收藏 - 看番 | 导航 | 聊天"
@@ -152,6 +158,6 @@
     "color": "linear-gradient(to right, #ffafbd 0%, #c9ffbf 100%)",
     "hidden": false,
     "dotColor": "#18c964",
-    "column": 3
+    "column": 4
   }
 }
