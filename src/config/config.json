@@ -108,6 +108,12 @@
       "desc": "网站状态监控"
     },
     {
+      "icon": "https://cdn.jsdelivr.net/gh/Weidows/Weidows/image/avatar.png",
+      "title": "Docker Mirror",
+      "url": "https://docker.hub.weidows.tech",
+      "desc": "自用 Docker Hub 镜像加速"
+    },
+    {
       "icon": "/icons/6e7c5e92.jpg",
       "title": "Bangumi",
       "url": "https://bangumi.tv/anime/list/823155/collect?orderby=rate",
