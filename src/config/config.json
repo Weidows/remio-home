@@ -104,14 +104,62 @@
     {
       "icon": "/icons/b98e0c972685693aeac61c82ddd8ec443493258686630857.jpg",
       "title": "Weidow's Monitor-Page",
-      "url": "https://stats.uptimerobot.com/22R3Pfkjzv",
+      "url": "https://monitor.weidows.tech",
       "desc": "网站状态监控"
+    },
+    {
+      "icon": "https://cdn.jsdelivr.net/gh/Weidows/Weidows/image/avatar.png",
+      "title": "QQ 群: 932716856",
+      "url": "http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=JnTr-1VT336RQZoLzpQhyjCINxSeODgp&authKey=WPTDajRFhxeqrTRyXFq9uRPEbir%2Bb3PNlrUf5%2B73nhywJQFuIntjFqXH7IsXmKMQ&noverify=0&group_code=932716856",
+      "desc": "网站服务更新通知/闲聊群"
+    },
+    {
+      "icon": "https://cdn.jsdelivr.net/gh/Weidows/Weidows/image/avatar.png",
+      "title": "网址导航",
+      "url": "https://nav.weidows.tech",
+      "desc": "WIP"
     },
     {
       "icon": "https://cdn.jsdelivr.net/gh/Weidows/Weidows/image/avatar.png",
       "title": "Docker Mirror",
       "url": "https://docker.hub.weidows.tech",
-      "desc": "自用 Docker Hub 镜像加速"
+      "desc": "自用镜像加速"
+    },
+    {
+      "icon": "https://cdn.jsdelivr.net/gh/Weidows/Weidows/image/avatar.png",
+      "title": "vaultwarden",
+      "url": "https://vaultwarden.weidows.tech",
+      "desc": "自建密码管理平台"
+    },
+    {
+      "icon": "https://cdn.jsdelivr.net/gh/Weidows/Weidows/image/avatar.png",
+      "title": "chatgpt",
+      "url": "https://chatgpt.ai.weidows.tech",
+      "desc": "访问码: Weidows"
+    },
+    {
+      "icon": "https://cdn.jsdelivr.net/gh/Weidows/Weidows/image/avatar.png",
+      "title": "bing",
+      "url": "https://bing.ai.weidows.tech",
+      "desc": "自建.."
+    },
+    {
+      "icon": "https://cdn.jsdelivr.net/gh/Weidows/Weidows/image/avatar.png",
+      "title": "BT 搜索聚合",
+      "url": "https://paperkite.bt.weidows.tech",
+      "desc": "自建.."
+    },
+    {
+      "icon": "https://cdn.jsdelivr.net/gh/Weidows/Weidows/image/avatar.png",
+      "title": "moe.counter",
+      "url": "https://moe.counter.weidows.tech",
+      "desc": "自建.."
+    },
+    {
+      "icon": "https://cdn.jsdelivr.net/gh/Weidows/Weidows/image/avatar.png",
+      "title": "referer.counter",
+      "url": "https://github.com/Weidows/referer-counter",
+      "desc": "自建.."
     },
     {
       "icon": "/icons/6e7c5e92.jpg",
