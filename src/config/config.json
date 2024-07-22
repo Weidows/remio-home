@@ -120,7 +120,7 @@
       "icon": "https://cdn.jsdelivr.net/gh/Weidows/Weidows/image/avatar.png",
       "title": "QQ 群: 932716856",
       "url": "http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=JnTr-1VT336RQZoLzpQhyjCINxSeODgp&authKey=WPTDajRFhxeqrTRyXFq9uRPEbir%2Bb3PNlrUf5%2B73nhywJQFuIntjFqXH7IsXmKMQ&noverify=0&group_code=932716856",
-      "desc": "网站服务更新通知/闲聊群"
+      "desc": "网站服务更新通知/闲聊"
     },
     {
       "icon": "https://cdn.jsdelivr.net/gh/Weidows/Weidows/image/avatar.png",
@@ -148,27 +148,33 @@
     },
     {
       "icon": "https://cdn.jsdelivr.net/gh/Weidows/Weidows/image/avatar.png",
+      "title": "sink",
+      "url": "https://sink.weidows.tech",
+      "desc": "短连接平台"
+    },
+    {
+      "icon": "https://cdn.jsdelivr.net/gh/Weidows/Weidows/image/avatar.png",
       "title": "bing",
       "url": "https://bing.ai.weidows.tech",
       "desc": "自建.."
     },
     {
       "icon": "https://cdn.jsdelivr.net/gh/Weidows/Weidows/image/avatar.png",
-      "title": "BT 搜索聚合",
+      "title": "paperkite",
       "url": "https://paperkite.bt.weidows.tech",
-      "desc": "自建.."
+      "desc": "BT 搜索聚合"
     },
     {
       "icon": "https://cdn.jsdelivr.net/gh/Weidows/Weidows/image/avatar.png",
       "title": "moe.counter",
       "url": "https://moe.counter.weidows.tech",
-      "desc": "自建.."
+      "desc": "计数"
     },
     {
       "icon": "https://cdn.jsdelivr.net/gh/Weidows/Weidows/image/avatar.png",
       "title": "referer.counter",
       "url": "https://github.com/Weidows/referer-counter",
-      "desc": "自建.."
+      "desc": "计数"
     },
     {
       "icon": "/icons/6e7c5e92.jpg",
