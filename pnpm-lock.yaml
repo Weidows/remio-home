@@ -8,6 +8,9 @@ importers:
 
   .:
     dependencies:
+      '@kasuie/http':
+        specifier: ^0.0.11
+        version: 0.0.11
       '@kasuie/icon':
         specifier: ^0.0.9
         version: 0.0.9
@@ -853,6 +856,10 @@ packages:
 
   '@jridgewell/trace-mapping@0.3.25':
     resolution: {integrity: sha512-vNk6aEwybGtawWmy/PzwnGDOjCkLWSD2wqvjGGAgOAwCGWySYXfYoxt00IJkTF+8Lb57DwOb3Aa0o9CApepiYQ==}
+
+  '@kasuie/http@0.0.11':
+    resolution: {integrity: sha512-hrraEVEftb+pSDYI8g+W+cOmc8Q/ao/ezQLFGINvLm67UVrUeFKF5tyb3R2PeXNOJAW+Z58FDIPFhLkxJle6Sg==}
+    engines: {pnpm: '>=8'}
 
   '@kasuie/icon@0.0.9':
     resolution: {integrity: sha512-m1jJBk0xrKnGIknXdvTUUSB/qECK5ONFnrLtDtUPh0pbtq9DWow1tRKNVk3zlJoSXaZDEBvTUe15nqeyk1LPUQ==}
@@ -5081,6 +5088,8 @@ snapshots:
     dependencies:
       '@jridgewell/resolve-uri': 3.1.2
       '@jridgewell/sourcemap-codec': 1.4.15
+
+  '@kasuie/http@0.0.11': {}
 
   '@kasuie/icon@0.0.9':
     dependencies:
