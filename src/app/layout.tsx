@@ -2,7 +2,7 @@
  * @Author: kasuie
  * @Date: 2024-05-20 16:08:41
  * @LastEditors: kasuie
- * @LastEditTime: 2024-06-27 18:09:42
+ * @LastEditTime: 2024-08-16 15:44:12
  * @Description:
  */
 import type { Metadata } from "next";
@@ -30,6 +30,7 @@ export async function generateMetadata() {
       shortcut: "/icons/favicon192.png",
       apple: "/icons/favicon192.png",
     },
+    other: { "baidu-site-verification": process.env.BaiduSiteVerify || "" },
   } satisfies Metadata;
 }
 
@@ -52,7 +53,10 @@ export default async function RootLayout({
       <body
         className={`${inter.className} mio-scroll mio-fonts overflow-y-auto`}
       >
-        <AppProviders appConfig={appConfig}>
+        <AppProviders
+          appConfig={appConfig}
+          ver={process.env.VERSION || ""}
+        >
           <Layout>{children}</Layout>
           <StyleRegistry />
         </AppProviders>
